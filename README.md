@@ -1,4 +1,4 @@
-aws-ip-ranges
+aws-ip-range-tool
 
 A utility to search AWS IP ranges. Search by AWS Region, 
 AWS Service, or AWS Network Border Group. Additionally, 
